@@ -1,6 +1,7 @@
 # Rock-Paper-Scissors
 A rock paper scissors game made with javascript
 
+# Description:
 This was part of an in-class activity set while beginning to learn Javascript. 
 The coding pushed me to research new javascript language and put terms I already knew into practice. 
 The code should generate a ten-round game against the computer and log user input to determine who wins after the ten rounds.
@@ -18,4 +19,5 @@ Through this activity, I learned how to make for loops and how to use switch com
 
 <img width="960" alt="image" src="https://github.com/TamsinLloyd99/Rock-Paper-Scissors/assets/152029548/129ecc6c-7f49-4e03-81ca-7d240486aaf8">
 
+Deployed link: https://tamsinlloyd99.github.io/Rock-Paper-Scissors/ 
 
