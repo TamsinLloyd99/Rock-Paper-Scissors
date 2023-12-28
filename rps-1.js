@@ -14,7 +14,7 @@ for (var i = 1; i <= 10; i++) {
 var choice = prompt ("Enter R, P or S: ");
 
 //Convert user input to uppercase.
-var userChoice = choice.toLocaleUpperCase;
+var userChoice = choice.toUpperCase();
 
 //Check if the user's choice is valid.
 if (userChoice === "R" || userChoice === "P" || userChoice === "S"){
