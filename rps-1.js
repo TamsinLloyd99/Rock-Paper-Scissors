@@ -43,13 +43,11 @@ switch (true) {
         alert("You lost!");
         losses++;
 }
+} else{
+// Handle invalid user choices by ignoring the round.
+alert("Please input R, P or S");
+i--;
 }
-// } else{
-// // Handle invalid user choices by ignoring the round.
-// alert("Please input R, P or S");
-// i--;
-// }
 }
-
 // Display "Game Over!" and show total wins, ties, and losses in an alert.
-alert("Game Over\n" + "Total wins: " + wins + "\n" + "Total losses: " + losses + "\n" + "Total ties " + ties + "\n");
+alert("GAME OVER\n" + "Total wins: " + wins + "\n" + "Total losses: " + losses + "\n" + "Total ties " + ties + "\n");
